@@ -16,6 +16,9 @@ Sparkify Customer Data analysis
     - Seaborn
     - pandas
 ### File Description : 
-      ./mini_sparkify_event_data.json : the mini dataset file
-      ./data_analysis.ipynb           : data analysis python notebook
+      ./mini_sparkify_event_data.json.zip  : compressed folder containing the mini dataset file.
+         command : unzip the data before using.
+         unzip ./mini_sparkify_event_data.json.zip  
+         "mini_sparkify_event_data.json"   : the mini dataset file
+      ./data_analysis.ipynb                : data analysis python notebook
  
