@@ -21,6 +21,7 @@ Sparkify Customer Data analysis
          unzip ./mini_sparkify_event_data.json.zip  
          "mini_sparkify_event_data.json"   : the mini dataset file
       ./data_analysis.ipynb                : data analysis python notebook
+      ./data_analysis.old.ipynb            : data analysis python notebook before 2nd Review by Udacity
  Blog Post : https://medium.com/@c.yesesri1/sparkify-costumer-data-analysis-b51ac37b4091  
     ------------------------------------------------------------------------------------------------------------  
 ### Data Overview : 
